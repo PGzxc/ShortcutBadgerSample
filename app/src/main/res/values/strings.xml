@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ShortcutBadgerSample</string>
+    <string name="setBadge">设置角标</string>
+    <string name="removeBadge">移除角标</string>
+</resources>
